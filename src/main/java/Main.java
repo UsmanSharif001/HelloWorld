@@ -4,6 +4,7 @@ public class Main {
         System.out.println("Its alive");
         System.out.println("Bla");
         System.out.println("Bla2");
+        System.out.println("Fedt mand");
 
     }
 }
